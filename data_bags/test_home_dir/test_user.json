@@ -1,0 +1,13 @@
+{
+  "id": "test_user",
+  "password": "$1$X9Gf0tIU$7SrQOE81nIz3YUeyoNE/31",
+  "ssh_keys": [
+    "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDg1WrJOFQepQRxTDoXLC/3ke7o9VIP3J91o6Oq0fY1ATvWEfmPz+niBD6ZvO9ufgRoQ/VlEa33/7Vz/7Du5xfDRmxzWiJVqwAFX/zLN9yzGdO7jld4nKcQ4rWpVJyRsdiKCqjcNPaDDNfiISaBT/8tBZ+BWdml8oAjTeA4phZgRoiVUIyRwA0GwQX0J2Lex0f+PEsXY8XvGe3Dpq9uMIxXMNZGVbHyDPljIH1YPyt7bWHp67rsZ8dwftedN60jc5wAhimfwA7PXXn10j4Ki4UPoApquE5W8CFaUkOXgtcV3Cm3fZNodJEOmpjECiI3bymejW2FvpJ1bhXhPcEfurXR ec2-user@ip-172-31-25-125.us-west-2.compute.internal"
+  ],
+  "groups": [
+    "testgroup"
+  ],
+  "uid": 9002,
+  "shell": "/bin/bash",
+  "comment": "Test User"
+}
