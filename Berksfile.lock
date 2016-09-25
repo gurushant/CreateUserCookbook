@@ -1,0 +1,9 @@
+DEPENDENCIES
+  create_user
+    path: .
+    metadata: true
+
+GRAPH
+  create_user (0.1.0)
+    users (>= 0.0.0)
+  users (4.0.1)
